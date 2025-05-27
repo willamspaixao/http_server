@@ -9,5 +9,8 @@
   },
   "license": "ISC",
   "author": "Willams da Paixão Cunha",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
